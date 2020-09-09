@@ -1,1 +1,1 @@
-# Checkers
+# Python-Checkers
